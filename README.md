@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Devops**
 
-- 👨‍💻 All of my projects are available at [GitHub Portfolio](GitHub Portfolio)
+- 👨‍💻 All of my projects are available at https://github.com/mani0335
 
 - 📫 How to reach me **pasulmanish0335@gmail.com**
 
