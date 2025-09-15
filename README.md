@@ -16,6 +16,10 @@
     <img src="https://img.shields.io/twitter/follow/manishpasu11685?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=mani0335" alt="GitHub Streak" />
+</p>
+
 
 ---
 
