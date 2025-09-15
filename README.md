@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Developer Engineer and Cloud Enthusiast from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mani0335&label=Profile%20views&color=0e75b6&style=flat" alt="mani0335" />
+  <img src="https://komarev.com/ghpvc/?username=mani0335&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mani0335" alt="mani0335" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mani0335" alt="Trophies" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 - 🤝 I’m looking for help with **DevOps**
 - 👨‍💻 All of my projects are available at: [https://github.com/mani0335](https://github.com/mani0335)
 - 📫 Reach me at: **pasulmanish0335@gmail.com**
-- 📄 View my resume: [Click here to open](https://drive.google.com/file/d/1MwxwgXqBIWgYZpWXUI4gId50SJck9TFW/view?usp=sharing)
+- 📄 View my resume: [Click here](https://drive.google.com/file/d/1MwxwgXqBIWgYZpWXUI4gId50SJck9TFW/view?usp=sharing)
 - ⚡ Fun fact: **I can edit videos too!**
 
 ---
