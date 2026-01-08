@@ -9,13 +9,13 @@
 
 ## ✨ About Me
 🚀 Passionate about **Artificial Intelligence, LLMs, and Cloud Technologies**  
-🧠 Building **intelligent, real-world problem-solving systems**  
-🌍 From **India**, open to global collaboration  
+🧠 Building **intelligent solutions for real-world problems**  
+🌍 Based in **India**, open to global collaboration  
 🎥 Tech creator who loves **making videos & explaining concepts**
 
-- 🔭 Working on **AI, ML & LLM-powered projects**
+- 🔭 Working on **AI, ML & LLM-based projects**
 - 🤖 Exploring **Prompt Engineering & AI Assistants**
-- ☁️ Learning **Cloud & DevOps workflows**
+- ☁️ Learning **Cloud & DevOps**
 - ⚙️ Experience with **Salesforce Development & Admin**
 - 🤝 Open to **internships & collaborations**
 - 📫 Email: **pasulamanish0335@gmail.com**
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 AI & LLM Focus
+## 🧠 AI & LLM Skills
 🧩 Large Language Models (LLMs)  
 💬 AI Chatbots & Prompt Engineering  
 🧠 Deep Learning (CNNs)  
@@ -55,26 +55,14 @@
 
 ---
 
-## 📊 GitHub Overview (⚠️ Network-Safe)
-> ⚡ This section **never breaks**, even if GitHub Stats are blocked
+## 📊 GitHub Overview
+✔ Active GitHub user  
+✔ Consistent learner & project builder  
+✔ Focused on **AI + Cloud + Salesforce**
 
-![Repos](https://img.shields.io/badge/Public%20Repos-Active-brightgreen)
+![Public Repos](https://img.shields.io/github/repos/mani0335?label=Public%20Repos)
 ![Followers](https://img.shields.io/github/followers/mani0335?label=Followers)
-![Stars](https://img.shields.io/github/stars/mani0335?label=Stars)
-![Profile Views](https://komarev.com/ghpvc/?username=mani0335)
-
----
-
-## 📈 GitHub Stats (Optional – may depend on network)
-
-<img src="https://github-readme-stats.vercel.app/api?username=mani0335&show_icons=true&theme=tokyonight"
-     referrerpolicy="no-referrer" />
-
-<img src="https://streak-stats.demolab.com?user=mani0335&theme=tokyonight"
-     referrerpolicy="no-referrer" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani0335&layout=compact&theme=tokyonight"
-     referrerpolicy="no-referrer" />
+![Stars](https://img.shields.io/github/stars/mani0335?label=Total%20Stars)
 
 ---
 
