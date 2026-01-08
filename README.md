@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Pasula</h1>
-<h3 align="center">A Passionate Developer & Cloud | Salesforce | AI Enthusiast from India 🌍</h3>
+<h3 align="center">AI & LLM Enthusiast | Cloud | Salesforce | Full-Stack Developer from India 🌍</h3>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=mani0335&label=Profile%20views&color=0e75b6&style=flat" alt="mani0335" />
@@ -8,13 +8,24 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **AI Project**
-- 👯 I’m looking to collaborate on **Cloud Native & AI Projects**
+- 🔭 I’m currently working on **AI, Machine Learning & LLM-based Projects**
+- 🤖 Hands-on experience with **LLMs, Deep Learning & AI-driven Applications**
+- 👯 I’m looking to collaborate on **AI, Cloud Native & LLM Projects**
 - 🤝 I’m looking for help with **DevOps & Salesforce**
 - 👨‍💻 My projects are available at: **https://github.com/mani0335**
 - 📫 Reach me at: **pasulamanish0335@gmail.com**
-- 📄 Resume: **https://drive.google.com/file/d/1ogzsDOZ9u7tcOEnys80iOJ_veV2RTv3p/view?usp=sharing**
+- 📄 Resume: **https://drive.google.com/file/d/1ogzsDOZ9u7tcOEnys80iOJ_veV2RTv3p/view?usp=drive_link**
 - ⚡ Fun Fact: **I Make Videos 🎥**
+
+---
+
+### 🧠 AI & LLM Expertise
+- 🤖 **Large Language Models (LLMs)** – Prompt Engineering, AI Chatbots
+- 🧠 **Deep Learning** – CNNs for Image Classification (Medical & Health AI)
+- 📊 **Machine Learning** – Data preprocessing, model training & evaluation
+- 🧬 **AI in Healthcare** – Disease Prediction, Brain Tumor Detection
+- 🛠️ **Frameworks & Tools** – TensorFlow, PyTorch, Pandas, NumPy
+- 🌐 **AI Integration** – Flask-based AI Web Applications
 
 ---
 
