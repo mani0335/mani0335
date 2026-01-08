@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Manish Pasula</span></h1>
+<h1 align="center">Hi 👋, I'm Manish Pasula</h1>
 <h3 align="center">🤖 AI & LLM Enthusiast | ☁️ Cloud | ⚙️ Salesforce | 💻 Full-Stack Developer</h3>
 
 <p align="center">
@@ -8,28 +8,28 @@
 ---
 
 ## ✨ About Me
-🚀 Passionate developer focused on **AI, LLMs, and Cloud Technologies**  
-🧠 Building intelligent systems that **solve real-world problems**  
-🌍 Based in **India**, collaborating globally  
-🎥 Content creator who loves **making tech videos**
+🚀 Passionate about **Artificial Intelligence, LLMs, and Cloud Technologies**  
+🧠 Building **intelligent, real-world problem-solving systems**  
+🌍 From **India**, open to global collaboration  
+🎥 Tech creator who loves **making videos & explaining concepts**
 
-- 🔭 Currently working on **AI, ML & LLM-powered applications**
+- 🔭 Working on **AI, ML & LLM-powered projects**
 - 🤖 Exploring **Prompt Engineering & AI Assistants**
-- ☁️ Interested in **Cloud-native & DevOps workflows**
-- ⚙️ Hands-on with **Salesforce Development & Admin**
-- 🤝 Open to **collaborations & internships**
+- ☁️ Learning **Cloud & DevOps workflows**
+- ⚙️ Experience with **Salesforce Development & Admin**
+- 🤝 Open to **internships & collaborations**
 - 📫 Email: **pasulamanish0335@gmail.com**
-- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1ogzsDOZ9u7tcOEnys80iOJ_veV2RTv3p/view?usp=drive_link)**
+- 📄 Resume: **https://drive.google.com/file/d/1ogzsDOZ9u7tcOEnys80iOJ_veV2RTv3p/view**
 
 ---
 
-## 🧠 AI & LLM Toolbox
-🧩 **Large Language Models (LLMs)** – Prompt design & chatbot logic  
-🧠 **Deep Learning** – CNNs for medical image analysis  
-📊 **Machine Learning** – Data preprocessing & model training  
-🏥 **Healthcare AI** – Disease & Brain Tumor Prediction  
-🌐 **AI Integration** – Flask-based AI Web Apps  
-🛠️ **Libraries** – TensorFlow | PyTorch | Pandas | NumPy  
+## 🧠 AI & LLM Focus
+🧩 Large Language Models (LLMs)  
+💬 AI Chatbots & Prompt Engineering  
+🧠 Deep Learning (CNNs)  
+📊 Machine Learning & Data Analysis  
+🏥 Healthcare AI (Disease & Brain Tumor Prediction)  
+🌐 Flask-based AI Web Applications  
 
 ---
 
@@ -55,9 +55,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview (⚠️ Network-Safe)
+> ⚡ This section **never breaks**, even if GitHub Stats are blocked
 
-## 📊 GitHub Stats
+![Repos](https://img.shields.io/badge/Public%20Repos-Active-brightgreen)
+![Followers](https://img.shields.io/github/followers/mani0335?label=Followers)
+![Stars](https://img.shields.io/github/stars/mani0335?label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=mani0335)
+
+---
+
+## 📈 GitHub Stats (Optional – may depend on network)
 
 <img src="https://github-readme-stats.vercel.app/api?username=mani0335&show_icons=true&theme=tokyonight"
      referrerpolicy="no-referrer" />
@@ -67,7 +75,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani0335&layout=compact&theme=tokyonight"
      referrerpolicy="no-referrer" />
-
 
 ---
 
