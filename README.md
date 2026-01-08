@@ -57,11 +57,17 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mani0335&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mani0335&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=mani0335&show_icons=true&theme=tokyonight"
+     referrerpolicy="no-referrer" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mani0335&layout=compact&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=mani0335&theme=tokyonight"
+     referrerpolicy="no-referrer" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani0335&layout=compact&theme=tokyonight"
+     referrerpolicy="no-referrer" />
+
 
 ---
 
